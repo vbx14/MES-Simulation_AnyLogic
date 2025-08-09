@@ -41,7 +41,7 @@ The jobsInSystemPlot displays:
 ## Example Output
 
 ### Run-View, Process-flow and Timeplot
-![run-view-diagram](https://github.com/vbx14/mini-mes/blob/b500d2ed0b5606ff879062ac8ab976059d35546d/screenshots/HTML%20UI%20for%20API%20Test.png)
+![run-view-diagram](https://github.com/vbx14/MES-Simulation_AnyLogic/blob/1381cb345cd3cbd70a6f4deb5c1f81b3a9a5a2a0/screenshots/run-view-diagram.png)
 
 ##  Installation Notes
 
